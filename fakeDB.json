@@ -1,0 +1,40 @@
+{
+    "posts":[
+        {
+          "id": 1,
+          "title": "Learning JSON",
+          "description": "A guide to understanding and using JSON.",
+          "likeCount": 120
+        },
+        {
+          "id": 2,
+          "title": "JavaScript Basics",
+          "description": "An introduction to the basics of JavaScript programming.",
+          "likeCount": 95
+        },
+        {
+          "id": 3,
+          "title": "HTML and CSS",
+          "description": "Learn how to create beautiful websites using HTML and CSS.",
+          "likeCount": 150
+        },
+        {
+          "id": 4,
+          "title": "ReactJS Tutorial",
+          "description": "A comprehensive tutorial on building applications with ReactJS.",
+          "likeCount": 210
+        },
+        {
+          "id": 5,
+          "title": "Node.js for Beginners",
+          "description": "Get started with server-side programming using Node.js.",
+          "likeCount": 180
+        },
+        {
+          "id": 6,
+          "title": "Python Programming",
+          "description": "A beginner's guide to programming with Python.",
+          "likeCount": 230
+        }
+      ]
+}

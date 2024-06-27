@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",
-    "json-server":"",
+    "json-server":"json-server --watch fakeDB.json --port 8005",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
