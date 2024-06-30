@@ -1,6 +1,6 @@
 
-const HomePage = ({params}) => {
-  console.log(params?.id)
+const HomePage = ({}) => {
+  
 
   
   return (
